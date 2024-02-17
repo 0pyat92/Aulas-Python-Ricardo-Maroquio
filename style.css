@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    
+}
+.acc{
+    padding: 1rem;
+    background-color: rgb(193, 216, 216);
+    font-weight: 300;
+    font-size: larger;
+}
+.c{
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
